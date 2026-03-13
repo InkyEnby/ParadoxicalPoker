@@ -1,0 +1,16 @@
+{
+	"id": "ParadoxPoker",
+	"name": "Paradoxical Poker",
+	"display_name": "Paradoxical Poker",
+	"author": [ "Inky 'Ivory' Enby", "PotatoNerd"],
+	"description": "Adds a whole bunch of both my Paradox Buddies (Credits to PotatoNerd for some of the sprites)",
+	"prefix": "para",
+	"main_file": "PDXJkr.lua",
+	"priority": 0,
+	"badge_colour": "2E0085",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0"
+	//"dependencies": [
+	//	"Steamodded (>=1.0.0~ALPHA-1404b)"
+	//]
+}

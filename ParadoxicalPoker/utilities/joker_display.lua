@@ -1,0 +1,30 @@
+--=============== Page 1 ===============--
+--BunnyOne
+--HurtbreakWonderland
+--BunnyTwo
+--RoaringKnight
+--Inventor
+--BunnyThree
+--StuntDouble
+--Marriage
+--Redprint
+--Inky
+--Potato
+--Alt
+--Whisk
+--Toast
+--Nightmare
+--=============== Page 2 ===============--
+--Skel
+--Myrados
+--Ratman
+--Corrosion
+--Jaundice
+--Devotion
+--Polaris
+--Tyrant
+--Pearto
+--Spark
+--Incident
+
+return { name = "JokerDisplay" }
